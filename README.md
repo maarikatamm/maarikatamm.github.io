@@ -1,5 +1,6 @@
 ## Maarika Tamm
 - I live and work in Tartu. I am a senior accountant. I currently work for Aita AS. I am learning how to become an IT specialist. 
+
 Add me on [LinkedIn](https://www.linkedin.com/in/maarika-tamm-b086b678/).
 
 
