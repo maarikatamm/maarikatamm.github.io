@@ -27,9 +27,3 @@ Add me on [LinkedIn](https://www.linkedin.com/in/maarika-tamm-b086b678/).
 - Capstone: Applying Project Management in the Real World
 
 2. Reskilling program “Work In Tech”
-
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
