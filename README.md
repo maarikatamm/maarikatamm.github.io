@@ -9,8 +9,11 @@
 - Technical Support Fundamentals
 - IT Security: Defense against the digital dark arts
 - System Administration and IT Infrastructure Services
+
 Coursera
+
 Issued May 2022
+
 Credential ID LH9UK7ZAHHD9
 
 ### Courses I am currently taking
