@@ -1,5 +1,8 @@
 ## Maarika Tamm
 - I live and work in Tartu. I am a senior accountant. I currently work for Aita AS. I am learning how to become an IT specialist. 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 
 ### Licenses & certifications
 
@@ -21,6 +24,8 @@
 - Project Execution: Running the Project
 - Agile Project Management
 - Capstone: Applying Project Management in the Real World
+
+2. Reskilling program “Work In Tech”
 
 
 
