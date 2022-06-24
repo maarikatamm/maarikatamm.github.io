@@ -1,5 +1,5 @@
 ## Maarika Tamm
-I am a senior accountant. I currently work for Aita AS. I am learning how to become an IT specialist. 
+- I live and work in Tartu. I am a senior accountant. I currently work for Aita AS. I am learning how to become an IT specialist. 
 
 ### Licenses & certifications
 
@@ -10,13 +10,15 @@ Credential ID LH9UK7ZAHHD9
 
 ### Courses I am currently taking
 
-- PROFESSIONAL CERTIFICATE: Google Project Management
+1. PROFESSIONAL CERTIFICATE: Google Project Management
+- Foundations of Project Management
+- Project Initiation: Starting a Successful Project
+- Project Planning: Putting It All Together
+- Project Execution: Running the Project
+- Agile Project Management
+- Capstone: Applying Project Management in the Real World
 
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maarikatamm/maarikatamm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
