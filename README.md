@@ -1,10 +1,7 @@
 ## Maarika Tamm
+I am a senior accountant. I currently work for Aita AS. I am learning how to become an IT specialist. 
 
-You can use the [editor on GitHub](https://github.com/maarikatamm/maarikatamm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Licenses & certifications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,7 +12,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Google IT Support SpecializationGoogle IT Support Specialization
+CourseraCoursera
+Issued May 2022 · No Expiration Date
+Credential ID LH9UK7ZAHHD9
 - List
 
 1. Numbered
