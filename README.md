@@ -3,7 +3,12 @@
 
 ### Licenses & certifications
 
-- Google IT Support Specialization
+1. Google IT Support Specialization
+- The Bits and Bytes of Computer Networking
+- Operating Systems and You: Becoming a Power User
+- Technical Support Fundamentals
+- IT Security: Defense against the digital dark arts
+- System Administration and IT Infrastructure Services
 Coursera
 Issued May 2022
 Credential ID LH9UK7ZAHHD9
