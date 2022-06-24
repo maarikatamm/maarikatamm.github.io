@@ -3,14 +3,13 @@ I am a senior accountant. I currently work for Aita AS. I am learning how to bec
 
 ### Licenses & certifications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-### Courses I am currently taking
-
 - Google IT Support Specialization
 Coursera
 Issued May 2022
 Credential ID LH9UK7ZAHHD9
+
+### Courses I am currently taking
+
 - PROFESSIONAL CERTIFICATE: Google Project Management
 
 
