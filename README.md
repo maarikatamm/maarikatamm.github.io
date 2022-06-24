@@ -7,21 +7,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Courses I am currently taking
 
-- Google IT Support SpecializationGoogle IT Support Specialization
-CourseraCoursera
-Issued May 2022 · No Expiration Date
+- Google IT Support Specialization
+Coursera
+Issued May 2022
 Credential ID LH9UK7ZAHHD9
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- PROFESSIONAL CERTIFICATE: Google Project Management
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
