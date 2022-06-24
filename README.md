@@ -5,10 +5,7 @@ I am a senior accountant. I currently work for Aita AS. I am learning how to bec
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
-# Header 1
-## Header 2
-### Header 3
+### Courses I am currently taking
 
 - Google IT Support SpecializationGoogle IT Support Specialization
 CourseraCoursera
